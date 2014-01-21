@@ -20,6 +20,10 @@
                         <name>Fabrice Bats</name>
                         <email>bats.fabrice@gmail.com</email>
                 </developer>
+                <developer>
+                        <name>David CROCHOT</name>
+                        <email>david.crochot@gmail.com</email>
+                </developer>
         </developers>
 
         <properties>
